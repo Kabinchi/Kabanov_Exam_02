@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloydMethod", "FloydMethod\FloydMethod.csproj", "{30E1C75C-3F03-4C99-AF2D-5DE04145990A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloydMethod.Tests", "FloydMethod.Tests\FloydMethod.Tests.csproj", "{EA329A7E-13E1-4AB3-A48D-F696ABB9D883}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30E1C75C-3F03-4C99-AF2D-5DE04145990A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30E1C75C-3F03-4C99-AF2D-5DE04145990A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30E1C75C-3F03-4C99-AF2D-5DE04145990A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30E1C75C-3F03-4C99-AF2D-5DE04145990A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA329A7E-13E1-4AB3-A48D-F696ABB9D883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA329A7E-13E1-4AB3-A48D-F696ABB9D883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA329A7E-13E1-4AB3-A48D-F696ABB9D883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA329A7E-13E1-4AB3-A48D-F696ABB9D883}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
