@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ExamRepo\\Kabanov_Exam_02\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30E1C75C-3F03-4C99-AF2D-5DE04145990A}|FloydMethod\\FloydMethod.csproj|d:\\examrepo\\kabanov_exam_02\\src\\floydmethod\\floydmethod.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{30E1C75C-3F03-4C99-AF2D-5DE04145990A}|FloydMethod\\FloydMethod.csproj|solutionrelative:floydmethod\\floydmethod.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA329A7E-13E1-4AB3-A48D-F696ABB9D883}|FloydMethod.Tests\\FloydMethod.Tests.csproj|d:\\examrepo\\kabanov_exam_02\\src\\floydmethod.tests\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA329A7E-13E1-4AB3-A48D-F696ABB9D883}|FloydMethod.Tests\\FloydMethod.Tests.csproj|solutionrelative:floydmethod.tests\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E1C75C-3F03-4C99-AF2D-5DE04145990A}|FloydMethod\\FloydMethod.csproj|d:\\examrepo\\kabanov_exam_02\\src\\floydmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E1C75C-3F03-4C99-AF2D-5DE04145990A}|FloydMethod\\FloydMethod.csproj|solutionrelative:floydmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA329A7E-13E1-4AB3-A48D-F696ABB9D883}|FloydMethod.Tests\\FloydMethod.Tests.csproj|d:\\examrepo\\kabanov_exam_02\\src\\floydmethod.tests\\floydmethod.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EA329A7E-13E1-4AB3-A48D-F696ABB9D883}|FloydMethod.Tests\\FloydMethod.Tests.csproj|solutionrelative:floydmethod.tests\\floydmethod.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest.cs",
+              "DocumentMoniker": "D:\\ExamRepo\\Kabanov_Exam_02\\src\\FloydMethod.Tests\\UnitTest.cs",
+              "RelativeDocumentMoniker": "FloydMethod.Tests\\UnitTest.cs",
+              "ToolTip": "D:\\ExamRepo\\Kabanov_Exam_02\\src\\FloydMethod.Tests\\UnitTest.cs",
+              "RelativeToolTip": "FloydMethod.Tests\\UnitTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T08:39:20.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FloydMethod.csproj",
+              "DocumentMoniker": "D:\\ExamRepo\\Kabanov_Exam_02\\src\\FloydMethod\\FloydMethod.csproj",
+              "RelativeDocumentMoniker": "FloydMethod\\FloydMethod.csproj",
+              "ToolTip": "D:\\ExamRepo\\Kabanov_Exam_02\\src\\FloydMethod\\FloydMethod.csproj",
+              "RelativeToolTip": "FloydMethod\\FloydMethod.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-15T08:07:11.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FloydMethod.Tests.csproj",
+              "DocumentMoniker": "D:\\ExamRepo\\Kabanov_Exam_02\\src\\FloydMethod.Tests\\FloydMethod.Tests.csproj",
+              "RelativeDocumentMoniker": "FloydMethod.Tests\\FloydMethod.Tests.csproj",
+              "ToolTip": "D:\\ExamRepo\\Kabanov_Exam_02\\src\\FloydMethod.Tests\\FloydMethod.Tests.csproj",
+              "RelativeToolTip": "FloydMethod.Tests\\FloydMethod.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-15T07:25:48.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ExamRepo\\Kabanov_Exam_02\\src\\FloydMethod\\Program.cs",
+              "RelativeDocumentMoniker": "FloydMethod\\Program.cs",
+              "ToolTip": "D:\\ExamRepo\\Kabanov_Exam_02\\src\\FloydMethod\\Program.cs",
+              "RelativeToolTip": "FloydMethod\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T06:41:04.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\ExamRepo\Kabanov_Exam_02\src\FloydMethod\bin\Debug\net9.0\FloydMethod.exe
+D:\ExamRepo\Kabanov_Exam_02\src\FloydMethod\bin\Debug\net9.0\FloydMethod.deps.json
+D:\ExamRepo\Kabanov_Exam_02\src\FloydMethod\bin\Debug\net9.0\FloydMethod.runtimeconfig.json
+D:\ExamRepo\Kabanov_Exam_02\src\FloydMethod\bin\Debug\net9.0\FloydMethod.dll
+D:\ExamRepo\Kabanov_Exam_02\src\FloydMethod\bin\Debug\net9.0\FloydMethod.pdb
+D:\ExamRepo\Kabanov_Exam_02\src\FloydMethod\obj\Debug\net9.0\FloydMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExamRepo\Kabanov_Exam_02\src\FloydMethod\obj\Debug\net9.0\FloydMethod.AssemblyInfoInputs.cache
+D:\ExamRepo\Kabanov_Exam_02\src\FloydMethod\obj\Debug\net9.0\FloydMethod.AssemblyInfo.cs
+D:\ExamRepo\Kabanov_Exam_02\src\FloydMethod\obj\Debug\net9.0\FloydMethod.csproj.CoreCompileInputs.cache
+D:\ExamRepo\Kabanov_Exam_02\src\FloydMethod\obj\Debug\net9.0\FloydMethod.sourcelink.json
+D:\ExamRepo\Kabanov_Exam_02\src\FloydMethod\obj\Debug\net9.0\FloydMethod.dll
+D:\ExamRepo\Kabanov_Exam_02\src\FloydMethod\obj\Debug\net9.0\refint\FloydMethod.dll
+D:\ExamRepo\Kabanov_Exam_02\src\FloydMethod\obj\Debug\net9.0\FloydMethod.pdb
+D:\ExamRepo\Kabanov_Exam_02\src\FloydMethod\obj\Debug\net9.0\FloydMethod.genruntimeconfig.cache
+D:\ExamRepo\Kabanov_Exam_02\src\FloydMethod\obj\Debug\net9.0\ref\FloydMethod.dll

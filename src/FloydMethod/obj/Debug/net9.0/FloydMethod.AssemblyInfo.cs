@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FloydMethod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50c215014ff14c9289cdff99d9b2f1e35c41787c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf54a978030a0dc1f8c478abaad4211cac9d66b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("FloydMethod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FloydMethod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
